@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "59ca676bdb6cde2cb573f0b8b0edacc53e25bcab",
+      "name": "final"
+    },
+    {
+      "sha": "19deb8f0a3b8c8207eaf990c54dd826295dbd4c7",
+      "name": "spot_color"
+    },
+    {
+      "sha": "f15ccd653509e449ecf78b3cdc137b203f7d8abc",
+      "name": "glyph_object"
+    },
+    {
+      "sha": "d482b359d4a99d7faa84f212b94095ffde019112",
+      "name": "glyph_system"
+    },
+    {
+      "sha": "7dc7e669c5ce56471e1e44f4c403254f04525b57",
+      "name": "interpolate"
+    },
+    {
+      "sha": "c82c8146146ddf620365b82798e4e31495e10e05",
+      "name": "sketch"
+    }
+  ]
+}
